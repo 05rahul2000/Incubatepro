@@ -1,6 +1,3 @@
-# Baatcheet
-Baatcheet creates appointments for people with bad mental health(Users) with people who want to listen to them (Therapists) along with a google meet link and the addition of an event to the user's and the therapist's google calendar. It also has a chillzone controlled by voice commands which suggests movies, shows quotes and memes.
+# Incubatepro
+IncubatePro is similar to Shark Tank, then it likely operates as a platform for startup entrepreneurs to pitch their business ideas or existing businesses to a panel of investors or "sharks." These investors are typically successful and experienced entrepreneurs or venture capitalists who are willing to invest their own money into promising business ventures.
 
-Submission for [Hackon 2.0](https://hackon.tech/)
-
-Check out the demo video [here](https://youtu.be/ngVlszefAO0)
