@@ -1,3 +1,3 @@
 # Incubatepro
-IncubatePro is similar to Shark Tank, then it likely operates as a platform for startup entrepreneurs to pitch their business ideas or existing businesses to a panel of investors or "sharks." These investors are typically successful and experienced entrepreneurs or venture capitalists who are willing to invest their own money into promising business ventures.
+In colleges and universities, an incubation cell, often referred to as a "Business Incubator" or "Entrepreneurship Center," is a dedicated space or department that supports and nurtures student startups and entrepreneurial ventures. The primary goal of an incubation cell is to provide resources, mentorship, and infrastructure to help students turn their innovative ideas into viable and sustainable businesses.
 
