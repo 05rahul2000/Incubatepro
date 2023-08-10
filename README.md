@@ -3,11 +3,11 @@ In colleges and universities, an incubation cell, often referred to as a "Busine
 
 ![2023-07-27 (6)](https://github.com/05rahul2000/Incubatepro/assets/101270754/f54255b3-9b25-4a8d-8aa6-d125f048d87e)
 
-After clicking on the login option we have to loging or have to register by our gmail account.
+After clicking on the login option we have to login or have to register by our gmail account.
 
 ![2023-08-10 (4)](https://github.com/05rahul2000/Incubatepro/assets/101270754/c6a228dd-d35c-4fac-ae24-7527d49c4159)
 
-After login then we have to complete our profil.
+After login then we have to complete our profile.
 
 ![2023-08-10 (5)](https://github.com/05rahul2000/Incubatepro/assets/101270754/c277d75f-138d-4a26-8051-fad86ad6d30c)
 
